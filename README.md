@@ -1,4 +1,4 @@
-## I'm Yago Pernas (AKA Stiff-Rock)👋
+## I'm Yago Pernas 👋
 
 - 🌱 Multiplatform Application Developement Student
 - 💡 Currently participationg in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
