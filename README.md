@@ -21,7 +21,7 @@
 
 </div>
 
-## Current skills
+## Programming Statistics
 
 <br>
 
