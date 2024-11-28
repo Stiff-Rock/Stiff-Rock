@@ -18,6 +18,8 @@
 [![itch.io](https://img.shields.io/badge/itch.io-FF4A00?style=for-the-badge&logo=itch.io&logoColor=white)](https://stiffrock.itch.io/)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaguitor@gmail.com)
+&nbsp;
+[![wakatime](https://wakatime.com/badge/user/e3419067-42c7-461f-8af4-4edf578186e4.svg?style=for-the-badge)](https://wakatime.com/@e3419067-42c7-461f-8af4-4edf578186e4)
 
 </div>
 
