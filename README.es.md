@@ -1,4 +1,4 @@
-# Languages [🇪🇸]()[🇺🇸]()
+# Languages [🇪🇸](README.es.md)[🇺🇸](README.md)
 
 ## I'm Yago Pernas 👋
 
