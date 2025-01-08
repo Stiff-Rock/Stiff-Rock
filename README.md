@@ -4,6 +4,8 @@
 - 💡 Currently participationg in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
 - 🎮 Learning game-dev on my own time
 - 🌟 Always eager to learn new skills
+
+You can see my portfolio [here](https://github.com/Stiff-Rock/portfolio).
   
 ## Social Links
 
