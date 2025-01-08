@@ -1,15 +1,15 @@
-Languages:  [🇪🇸](README.es.md)  -  [🇺🇸](README.md)
+Idiomas:  [🇪🇸](README.es.md)  -  [🇺🇸](README.md)
 
-## I'm Yago Pernas 👋
+## Soy Yago Pernas 👋
 
-- 🌱 Multiplatform Application Developement Student
-- 💡 Currently participationg in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
-- 🎮 Learning game-dev on my own time
-- 🌟 Always eager to learn new skills
+- 🌱 Estudiante de Desarrollo De Aplicaciones Multiplataforma (DAM)
+- 💡 Actualmente participando en el proyecto [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html)
+- 🎮 Aprendiendo desarrollo de videojuegos en mi tiempo libre
+- 🌟 Siempre dispuesto a aprender algo nuevo
 
-You can see my <strong>portfolio [here](https://github.com/Stiff-Rock/portfolio)</strong>.
+Puedes ver mi <strong>portfolio [aquí](https://github.com/Stiff-Rock/portfolio)</strong>.
   
-## Social Links
+## Redes Sociales
 
 <br>
 
@@ -27,7 +27,7 @@ You can see my <strong>portfolio [here](https://github.com/Stiff-Rock/portfolio)
 
 </div>
 
-## Programming Statistics
+## Estadísticas de Programación
 
 <br>
 
