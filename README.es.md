@@ -1,4 +1,4 @@
-Idiomas:  [🇪🇸](README.es.md)  -  [🇺🇸](README.md)
+Idiomas: [🇺🇸](README.md) - [🇪🇸](README.es.md)
 
 ## Soy Yago Pernas 👋
 
