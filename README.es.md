@@ -7,7 +7,7 @@
 - 🎮 Aprendiendo desarrollo de videojuegos en mi tiempo libre
 - 🌟 Siempre dispuesto a aprender algo nuevo
 
-Puedes ver mi <strong>portfolio [aquí](https://github.com/Stiff-Rock/portfolio)</strong>.
+<!--Puedes ver mi <strong>portfolio [aquí](https://github.com/Stiff-Rock/portfolio)</strong>.-->
   
 ## Redes Sociales
 
