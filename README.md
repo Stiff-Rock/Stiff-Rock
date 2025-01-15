@@ -7,7 +7,7 @@
 - 🎮 Learning game-dev on my own time
 - 🌟 Always eager to learn new skills
 
-You can see my <strong>portfolio [here](https://github.com/Stiff-Rock/portfolio)</strong>.
+<!-- You can see my <strong>portfolio [here](https://github.com/Stiff-Rock/portfolio)</strong>. -->
   
 ## Social Links
 
