@@ -3,7 +3,7 @@
 ## I'm Yago Pernas 👋
 
 - 🌱 Junior full stack developer
-- 💡 Currently participationg in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
+- 💡 Currently participating in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
 - 🎮 Learning game-dev on my own time
 - 🌟 Always eager to learn new skills
 
