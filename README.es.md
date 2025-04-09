@@ -2,7 +2,7 @@
 
 ## Soy Yago Pernas 👋
 
-- 🌱 Estudiante de Desarrollo De Aplicaciones Multiplataforma (DAM)
+- 🌱 Desarrollador full stack junior
 - 💡 Actualmente participando en el proyecto [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html)
 - 🎮 Aprendiendo desarrollo de videojuegos en mi tiempo libre
 - 🌟 Siempre dispuesto a aprender algo nuevo
