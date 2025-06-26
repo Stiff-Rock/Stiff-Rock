@@ -3,7 +3,7 @@
 ## Soy Yago Pernas 👋
 
 - 🌱 Desarrollador full stack junior
-- 💡 Actualmente participando en el proyecto [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html)
+- 💡 Partícipe del proyecto [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html)
 - 🎮 Aprendiendo desarrollo de videojuegos en mi tiempo libre
 - 🌟 Siempre dispuesto a aprender algo nuevo
 
