@@ -2,10 +2,10 @@
 
 ## I'm Yago Pernas 👋
 
-- 🌱 Junior full stack developer
+- 🌱 Full-Stack, Videogames and VR developer
 - 💡 Participant in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
-- 🎮 Learning game-dev on my own time
-- 🌟 Always eager to learn new skills
+- 🎵 Learning music production on my own time
+- 🌟 Always eager to learn
 
 You can see my <strong>portfolio [here](https://stiff-rock.github.io/Portfolio/)</strong>.
   
