@@ -2,9 +2,9 @@
 
 ## Soy Yago Pernas 👋
 
-- 🌱 Desarrollador full stack junior
+- 🌱 Desarrollador Full-Stack, de Videojuegos y Realidad Virtual
 - 💡 Partícipe del proyecto [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html)
-- 🎮 Aprendiendo desarrollo de videojuegos en mi tiempo libre
+- 🎨 Aprendiendo prodicción musical y blender en mi tiempo libre
 - 🌟 Siempre dispuesto a aprender algo nuevo
 
 Puedes ver mi <strong>portfolio [aquí](https://stiff-rock.github.io/Portfolio/)</strong>.
