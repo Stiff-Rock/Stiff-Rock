@@ -4,7 +4,7 @@
 
 - 🌱 Full-Stack, Videogames and VR developer
 - 💡 Participant in the [BIDUSA](https://www.profesorescooperantes.org/bidusa/index.html) project
-- 🎵 Learning music production on my own time
+- 🎨 Learning music production and blender on my own time
 - 🌟 Always eager to learn
 
 You can see my <strong>portfolio [here](https://stiff-rock.github.io/Portfolio/)</strong>.
