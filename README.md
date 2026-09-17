@@ -33,8 +33,8 @@ You can see my <strong>portfolio [here](https://stiff-rock.github.io/Portfolio/)
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stiff-Rock&layout=compact&theme=dark)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Stiff-Rock&layout=compact&theme=dark&hide=shaderlab)
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=StiffRock&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=StiffRock&layout=compact&theme=dark)](https://wakatime.com/@e3419067-42c7-461f-8af4-4edf578186e4)
 
 </div>
